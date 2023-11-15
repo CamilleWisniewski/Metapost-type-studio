@@ -39,16 +39,17 @@ Descender:=-5u;
 Voici le code à répéter au dessus de chaque glyphe que vous construisez
 
 Exemple avec **Iota Singleline**:
-![le logo de Framasoft](https://framasoft.org/nav/img/logo.png)
+![Dessins Iota](https://github.com/CamilleWisniewski/Metapost-type-studio/blob/83480f8b3121f405f6855e49ac23304fb5028e95/sources/iota1.pdf)
+![Dessins Iota](https://github.com/CamilleWisniewski/Metapost-type-studio/blob/83480f8b3121f405f6855e49ac23304fb5028e95/sources/iota4.pdf)
+![Metapost Iota](https://github.com/CamilleWisniewski/Metapost-type-studio/blob/83480f8b3121f405f6855e49ac23304fb5028e95/sources/metapost-online.png)
+![Glyphs Iota](https://github.com/CamilleWisniewski/Metapost-type-studio/blob/83480f8b3121f405f6855e49ac23304fb5028e95/sources/editeur-glyphes.png)
+![Le trait Iota](https://github.com/CamilleWisniewski/Metapost-type-studio/blob/83480f8b3121f405f6855e49ac23304fb5028e95/sources/le-trait.pdf)
 
 ### Ressources
 
-https://gitlab.com/erg-type/workshop.meta-elastique/-/blob/master/cheatsheet/cheatsheet.md
-https://gitlab.com/erg-type/metapost.survival-kit
-http://osp.kitchen/workshop/metapost-anrt
-https://www.tug.org/metapost.html
-https://github.com/isdat-type/Relief-SingleLine/tree/main
-https://gitlab.constantvzw.org/osp/workshop.single-line/-/tree/master/
-
-
-
+- https://gitlab.com/erg-type/workshop.meta-elastique/-/blob/master/cheatsheet/cheatsheet.md
+- https://gitlab.com/erg-type/metapost.survival-kit
+- http://osp.kitchen/workshop/metapost-anrt
+- https://www.tug.org/metapost.html
+- https://github.com/isdat-type/Relief-SingleLine/tree/main
+- https://gitlab.constantvzw.org/osp/workshop.single-line/-/tree/master/
