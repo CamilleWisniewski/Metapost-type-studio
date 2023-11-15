@@ -26,24 +26,20 @@ https://inkscape.org/release/inkscape-1.3/
 * Impression au plotter !
 
 ## NOTRE ESPACE DE TRAVAIL
-```u:=50;
+https://gitlab.com/erg-type/workshop.meta-elastique/-/blob/master/cheatsheet/cheatsheet.md
+
+```
+u:=50;
 Ascender:=15u;
 CapHeight:=13u;
 xHeight:=8u;
 Baseline:=0;
 Descender:=-5u;
 ```
+Voici le code à répéter au dessus de chaque glyphe que vous construisez
 
-Voici le code à répéter au dessus de chasue glyphe que vous construisez
-
-
-
-
-
-Cette typographie single line est utile pour l’utilisation sur une cnc, plotter, gravure laser...
-
-Avec cette solution la svg font n'est pas utilisable sur la suite Adobe, mais elle est supporter par son concurrent libre InsKape
-
+Exemple avec **Iota Singleline**:
+![le logo de Framasoft](https://framasoft.org/nav/img/logo.png)
 
 ### Ressources
 
