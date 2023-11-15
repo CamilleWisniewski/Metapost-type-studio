@@ -40,3 +40,5 @@ Avec cette solution la svg font n'est pas utilisable sur la suite Adobe, mais el
 https://inkscape.org/release/inkscape-1.3/
 
 
+
+
