@@ -39,11 +39,12 @@ Descender:=-5u;
 Voici le code à répéter au dessus de chaque glyphe que vous construisez
 
 Exemple avec **Iota Singleline**:
-![Dessins Iota](https://github.com/CamilleWisniewski/Metapost-type-studio/blob/83480f8b3121f405f6855e49ac23304fb5028e95/sources/iota1.png)
-![Dessins Iota](https://github.com/CamilleWisniewski/Metapost-type-studio/blob/83480f8b3121f405f6855e49ac23304fb5028e95/sources/iota4.png)
+
+![Dessins Iota](https://github.com/CamilleWisniewski/Metapost-type-studio/blob/a83a03d8f76e4f8b9b74ed679ee05279ee329cb2/sources/iota1.png)
+![Dessins Iota](https://github.com/CamilleWisniewski/Metapost-type-studio/blob/a83a03d8f76e4f8b9b74ed679ee05279ee329cb2/sources/iota4.png)
 ![Metapost Iota](https://github.com/CamilleWisniewski/Metapost-type-studio/blob/83480f8b3121f405f6855e49ac23304fb5028e95/sources/metapost-online.png)
 ![Glyphs Iota](https://github.com/CamilleWisniewski/Metapost-type-studio/blob/83480f8b3121f405f6855e49ac23304fb5028e95/sources/editeur-glyphes.png)
-![Le trait Iota](https://github.com/CamilleWisniewski/Metapost-type-studio/blob/83480f8b3121f405f6855e49ac23304fb5028e95/sources/le-trait.png)
+![Le Trait Iota](https://github.com/CamilleWisniewski/Metapost-type-studio/blob/a83a03d8f76e4f8b9b74ed679ee05279ee329cb2/sources/le-trait.png)
 
 ### Ressources
 
