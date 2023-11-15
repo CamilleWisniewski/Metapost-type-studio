@@ -25,7 +25,17 @@ https://inkscape.org/release/inkscape-1.3/
 * Faire des visuels avec vos glyphes
 * Impression au plotter !
 
-## Comment fonctionne MetaPost?
+## NOTRE ESPACE DE TRAVAIL
+```u:=50;
+Ascender:=15u;
+CapHeight:=13u;
+xHeight:=8u;
+Baseline:=0;
+Descender:=-5u;```
+
+Voici le code à répéter au dessus de chasue glyphe que vous construisez
+
+
 
 
 
