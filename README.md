@@ -31,7 +31,8 @@ Ascender:=15u;
 CapHeight:=13u;
 xHeight:=8u;
 Baseline:=0;
-Descender:=-5u;```
+Descender:=-5u;
+```
 
 Voici le code à répéter au dessus de chasue glyphe que vous construisez
 
