@@ -1,9 +1,10 @@
 https://github.com/CamilleWisniewski/Metapost-type-studio.git
 
-#Metapost Online
+*Metapost Online
 http://www.tlhiv.org/mppreview/
 
-#Ressources
+*Ressources
+
 https://gitlab.com/erg-type/workshop.meta-elastique/-/blob/master/cheatsheet/cheatsheet.md
 https://gitlab.com/erg-type/metapost.survival-kit
 http://osp.kitchen/workshop/metapost-anrt
